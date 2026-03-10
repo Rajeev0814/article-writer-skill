@@ -47,3 +47,4 @@ Open the chosen platform's spec in `platforms/` and read its **Data Requirements
 ## Output of this stage
 
 A short internal brief carried forward: topic/angle, platform, **goal, content type, research depth, freshness, audience + knowledge level**, target keyword (if any), CTA goal, and the platform's required metadata fields with limits. Move to `pipeline/2-research.md`.
+Updated pipeline documentation
